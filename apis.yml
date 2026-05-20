@@ -26,6 +26,10 @@ description: >-
   and product documentation.
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/Entegris
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/entegris
   - type: Website
     url: https://www.entegris.com/
   - type: Investors
