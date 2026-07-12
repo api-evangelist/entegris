@@ -26,6 +26,8 @@ description: >-
   and product documentation.
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/entegris-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/Entegris
   - type: LinkedIn
